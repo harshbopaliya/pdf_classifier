@@ -23,16 +23,16 @@ This project implements an intelligent document classifier that can automaticall
 ### Dependencies
 
 ```bash
-torch
-transformers
-pandas
-pillow
-pytesseract
-PyMuPDF
-scikit-learn
-numpy
-tqdm
-streamlit
+streamlit==1.46.0
+torch==2.1.2
+transformers==4.52.4
+numpy==1.26.4
+PyMuPDF==1.26.1
+pytesseract==0.3.13
+Pillow==11.2.1
+pandas==2.3.0
+scikit-learn==1.7.0
+tqdm==4.67.1
 ```
 
 ### System Requirements
